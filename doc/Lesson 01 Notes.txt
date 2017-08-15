@@ -1,0 +1,31 @@
+PROGRAMMING LESSON 1
+
+Terminal
+
+COMMANDS
+CTRL c = force quit command
+cd = change directory
+ENTER = run command
+mkdir = make new directory
+ls = list directory
+rm = remove (delete)
+mv = move (a file or folder) from one place to another
+cp = copy (a file or folder) from one place to another
+pwd = print working directory
+which + command = finds location of program
+echo $? = exit code for the last program ran
+./ this folder/directory
+
+FACTS
+~ means your in the home folder.
+Tab lets you auto complete. 
+.. means go one folder up.
+[ ] are options.
+-r recursive, specific to remove. 
+—-help or sometimes -h depending on program gives you help.
+
+stdout = standard out, the output of a program.
+stdin = standard in, the input of a program.
+exit codes are the success or failure status of a program. 0 means success, everything else means error 
+
+gcc -std=c11 -o hello 01_helloWorld.c = compiles source code into program.

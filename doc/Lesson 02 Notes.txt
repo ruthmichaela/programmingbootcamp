@@ -1,0 +1,13 @@
+PROGRAMMING LESSON 2
+
+Hello World Program
+
+Compile:
+gcc -std=c11 -o hello 01_helloWorld.c
+
+gcc = compiler executable
+-std=c11 = some BS for newer bits of the c programming language from 2011
+-o = output
+hello = executable for output (program)
+01_helloWorld.c = source code file
+
